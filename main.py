@@ -22,13 +22,14 @@ def read_coefficient(param_index, prompt_message):
 
 
 def solve_biquadratic(a, b, c):
-
     roots = []
+
     discriminant = b ** 2 - 4 * a * c
 
     if discriminant >= 0:
         y1 = (-b + math.sqrt(discriminant)) / (2 * a)
         y2 = (-b - math.sqrt(discriminant)) / (2 * a)
+
 
         for y in [y1, y2]:
             if y > 0:
