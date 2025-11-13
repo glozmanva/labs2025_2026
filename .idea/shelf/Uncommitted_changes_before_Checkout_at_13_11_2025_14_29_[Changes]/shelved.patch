@@ -1,0 +1,24 @@
+Index: main.py
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>from lab_python_oop.rectangle import Rectangle\r\nfrom lab_python_oop.circle import Circle\r\nfrom lab_python_oop.square import Square\r\nfrom colorama import Fore, Style\r\n\r\n\r\ndef main():\r\n    # Создаем фигуры (N = 5)\r\n    rectangle = Rectangle(5, 5, \"синего\")\r\n    circle = Circle(5, \"зеленого\")\r\n    square = Square(5, \"красного\")\r\n\r\n    # Выводим информацию о фигурах\r\n    print(rectangle)\r\n    print(circle)\r\n    print(square)\r\n\r\n    # Демонстрация работы colorama\r\n    print(Fore.BLUE + \"Этот текст синего цвета!\" + Style.RESET_ALL)\r\n\r\n\r\nif __name__ == \"__main__\":\r\n    main()
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/main.py b/main.py
+--- a/main.py	(revision fa51c2226678738ad81f39eb3100ab278b7c206f)
++++ b/main.py	(date 1763033085590)
+@@ -5,12 +5,11 @@
+ 
+ 
+ def main():
+-    # Создаем фигуры (N = 5)
++
+     rectangle = Rectangle(5, 5, "синего")
+     circle = Circle(5, "зеленого")
+     square = Square(5, "красного")
+ 
+-    # Выводим информацию о фигурах
+     print(rectangle)
+     print(circle)
+     print(square)
