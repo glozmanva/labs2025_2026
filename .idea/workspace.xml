@@ -4,13 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1012d8a4-6c6c-4be7-b386-c11e2d62f7fe" name="Changes" comment="lab2_v2">
-      <change beforePath="$PROJECT_DIR$/lab_python_oop/circle.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab_python_oop/color.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab_python_oop/figure.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab_python_oop/rectangle.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab_python_oop/square.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+    <list default="true" id="1012d8a4-6c6c-4be7-b386-c11e2d62f7fe" name="Changes" comment="dz">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,7 +30,7 @@
     </excluded-from-favorite>
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="dz" />
+        <entry key="$PROJECT_DIR$" value="master" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -60,14 +57,21 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.field.executor": "Run",
     "Python.main.executor": "Run",
+    "Python.print_result.executor": "Run",
+    "Python.process_data.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true"
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "lab34"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\varva\PycharmProjects\lab2025_2026" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\varva\PycharmProjects\lab2025_2026\project_lab3-4\lab_python_fp" />
     </key>
   </component>
   <component name="SharedIndexes">
