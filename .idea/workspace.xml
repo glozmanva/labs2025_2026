@@ -4,18 +4,24 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1012d8a4-6c6c-4be7-b386-c11e2d62f7fe" name="Changes" comment="lab2_v2">
-      <change beforePath="$PROJECT_DIR$/lab_python_oop/circle.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab_python_oop/color.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab_python_oop/figure.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab_python_oop/rectangle.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab_python_oop/square.py" beforeDir="false" />
+    <list default="true" id="1012d8a4-6c6c-4be7-b386-c11e2d62f7fe" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/multiplication_game.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multiplication_gui.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <excluded-from-favorite>
@@ -33,7 +39,7 @@
     </excluded-from-favorite>
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="dz" />
+        <entry key="$PROJECT_DIR$" value="master" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -61,8 +67,12 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.main.executor": "Run",
+    "Python.multiplication_game.executor": "Run",
+    "Python.statistics.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true"
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "homework"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -115,7 +125,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="master" />
+                        <option value="HEAD" />
                       </list>
                     </value>
                   </entry>
